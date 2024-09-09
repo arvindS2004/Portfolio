@@ -1,8 +1,6 @@
-# React + Vite
+Hello Everyone!
+Really excited to reveal my portfolio website (https://portfolio-six-drab-55.vercel.app/)
+Make sure to visit and one more important thing
+🌙Dark mode and Desktop 💻 veiw is recommended!!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Build this in 1 week, used Vite+React and immense amount of CSS.
